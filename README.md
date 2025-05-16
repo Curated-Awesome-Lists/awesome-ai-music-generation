@@ -39,6 +39,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [**MusicGenerator**](https://github.com/Conchylicultor/MusicGenerator): Experiment with diverse deep learning models for music generation with TensorFlow. 🎶🧪 (309 stars)
 - [**MuseTree**](https://github.com/stevenwaterman/musetree): AI music generation for the real world. 🎵🌍 (215 stars)
 - [**VampNET**](https://github.com/hugofloresgarcia/vampnet): Music generation with masked transformers! 🎶🦇 (204 stars)
+- [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
 
 ## Articles & Blogs
 
