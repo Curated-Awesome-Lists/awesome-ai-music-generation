@@ -129,6 +129,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [What Is AI Generated Music? Best Music Tools for 2023](https://www.g2.com/articles/ai-generated-music): A software that allows businesses to explore AI-generated music as a cheaper alternative, offering a free trial with unlimited music projects and monthly song downloads.
 - [Best Audio Editing Software in 2023: Compare Reviews on 100+ | G2](https://www.g2.com/categories/audio-editing): A comprehensive list of audio editing software commonly used by audio engineers and music producers, with real-time product reviews from verified users.
 - [Psycle Modular Music Creation Studio Reviews - 2023](https://sourceforge.net/projects/psycle/reviews/): User reviews and ratings of the Psycle Modular Music Creation Studio free open-source software project.
+- [MuseGen](https://musegen.org) - AI tool for lyric writing and song generation.
 
 ## Conferences & Events
 
