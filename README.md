@@ -133,6 +133,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [Psycle Modular Music Creation Studio Reviews - 2023](https://sourceforge.net/projects/psycle/reviews/): User reviews and ratings of the Psycle Modular Music Creation Studio free open-source software project.
 - [MuseGen](https://musegen.org) - AI tool for lyric writing and song generation.
 - [OBSIDIAN Neural](https://obsidian-neural.com): VST3 plugin for real-time AI music generation during live performance. Features 8-track MIDI-triggered sampler with text-to-audio and experimental draw-to-audio generation.
+- [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 
 ## Conferences & Events
 
