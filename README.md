@@ -133,6 +133,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [Psycle Modular Music Creation Studio Reviews - 2023](https://sourceforge.net/projects/psycle/reviews/): User reviews and ratings of the Psycle Modular Music Creation Studio free open-source software project.
 - [MuseGen](https://musegen.org) - AI tool for lyric writing and song generation.
 - [OBSIDIAN Neural](https://obsidian-neural.com): VST3 plugin for real-time AI music generation during live performance. Features 8-track MIDI-triggered sampler with text-to-audio and experimental draw-to-audio generation.
+- [Boppy](https://boppy.me): Free AI music generator that creates complete songs from text descriptions. AI writes lyrics and ACE-Step 1.5 generates full audio tracks with vocals and instrumentation. Any genre, up to 5 minutes per track, no signup required.
 
 ## Conferences & Events
 
