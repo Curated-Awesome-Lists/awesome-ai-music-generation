@@ -7,6 +7,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 ## Table of Contents
 
 - [GitHub projects](#github-projects)
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
+
 - [Articles & Blogs](#articles-&-blogs)
 - [Online Courses](#online-courses)
 - [Books](#books)
