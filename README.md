@@ -134,6 +134,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [MuseGen](https://musegen.org) - AI tool for lyric writing and song generation.
 - [OBSIDIAN Neural](https://obsidian-neural.com): VST3 plugin for real-time AI music generation during live performance. Features 8-track MIDI-triggered sampler with text-to-audio and experimental draw-to-audio generation.
 * [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [AceTagGen](https://acetaggen.com): Free structured prompt builder specifically for Suno AI music generation. 3,000+ community-verified tags tested on Suno v4/v4.5, 12-step questionnaire, built-in quality score validator, and respect for Suno's 200-character Style field limit. Includes a free public [prompt scoring API](https://acetaggen.com/api/suno-score) and the [awesome-suno](https://github.com/shaizadok92/awesome-suno) resource list.
+- [suno-prompt-scorer](https://github.com/shaizadok92/suno-prompt-scorer): Zero-dependency MIT-licensed TypeScript/JavaScript library that scores Suno AI prompts on a 100-point scale across 4 metrics (length, tag collisions, specificity, density).
 
 ## Conferences & Events
 
