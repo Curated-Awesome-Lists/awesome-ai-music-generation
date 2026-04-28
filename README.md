@@ -135,6 +135,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [OBSIDIAN Neural](https://obsidian-neural.com): VST3 plugin for real-time AI music generation during live performance. Features 8-track MIDI-triggered sampler with text-to-audio and experimental draw-to-audio generation.
 * [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 
+- [Suede](https://suedeai.ai/): AI platform for music and video generation with automatic on-chain IP registration. Unlike other generators, Suede registers your ownership at the moment of creation — every track is immediately licensable, distributable to Spotify/Apple Music/TikTok, and royalty-earning from day one. Autonomous agents handle licensing at machine speed via x402. Built on Solana.
+
 ## Conferences & Events
 
 - [Neuton.AI Events](https://www.eventbrite.com/o/neutonai-63873737103) - Neuton.AI is hosting various events, including an ARM Tech Talk about the Next Generation Smart Toothbrush and showcasing their unique neural network framework for building compact models with optimal size and accuracy.
