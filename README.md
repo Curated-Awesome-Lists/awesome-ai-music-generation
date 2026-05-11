@@ -132,6 +132,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [Best Audio Editing Software in 2023: Compare Reviews on 100+ | G2](https://www.g2.com/categories/audio-editing): A comprehensive list of audio editing software commonly used by audio engineers and music producers, with real-time product reviews from verified users.
 - [Psycle Modular Music Creation Studio Reviews - 2023](https://sourceforge.net/projects/psycle/reviews/): User reviews and ratings of the Psycle Modular Music Creation Studio free open-source software project.
 - [MuseGen](https://musegen.org) - AI tool for lyric writing and song generation.
+- [Songmuse](https://songmuse.art/): An AI music generator that turns a short prompt into studio-ready songs with lyrics, vocals, and production controls. 🎵
 - [OBSIDIAN Neural](https://obsidian-neural.com): VST3 plugin for real-time AI music generation during live performance. Features 8-track MIDI-triggered sampler with text-to-audio and experimental draw-to-audio generation.
 * [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 
