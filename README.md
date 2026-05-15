@@ -43,6 +43,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [**VampNET**](https://github.com/hugofloresgarcia/vampnet): Music generation with masked transformers! 🎶🦇 (204 stars)
 - [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
 - [**OBSIDIAN Neural**](https://github.com/innermost47/ai-dj): Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)
+- [**LatentScore**](https://github.com/prabal-rje/latentscore): Simple text to ambient music in Python without GPU. 🎵 (35 stars)
 
 ## Articles & Blogs
 
