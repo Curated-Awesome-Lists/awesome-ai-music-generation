@@ -134,6 +134,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [MuseGen](https://musegen.org) - AI tool for lyric writing and song generation.
 - [OBSIDIAN Neural](https://obsidian-neural.com): VST3 plugin for real-time AI music generation during live performance. Features 8-track MIDI-triggered sampler with text-to-audio and experimental draw-to-audio generation.
 - [workmusic.ai](https://workmusic.ai): Free browser-based ambient focus music generator powered by Google Lyria. No sign-up required. Open source.
+- [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
+- [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 
 ## Conferences & Events
 
