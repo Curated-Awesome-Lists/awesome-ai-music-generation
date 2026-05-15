@@ -7,6 +7,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 ## Table of Contents
 
 - [GitHub projects](#github-projects)
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
+
 - [Articles & Blogs](#articles-&-blogs)
 - [Online Courses](#online-courses)
 - [Books](#books)
@@ -41,6 +43,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [**VampNET**](https://github.com/hugofloresgarcia/vampnet): Music generation with masked transformers! 🎶🦇 (204 stars)
 - [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
 - [**OBSIDIAN Neural**](https://github.com/innermost47/ai-dj): Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)
+- [**LatentScore**](https://github.com/prabal-rje/latentscore): Simple text to ambient music in Python without GPU. 🎵 (35 stars)
 
 ## Articles & Blogs
 
@@ -133,8 +136,12 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [Psycle Modular Music Creation Studio Reviews - 2023](https://sourceforge.net/projects/psycle/reviews/): User reviews and ratings of the Psycle Modular Music Creation Studio free open-source software project.
 - [MuseGen](https://musegen.org) - AI tool for lyric writing and song generation.
 - [OBSIDIAN Neural](https://obsidian-neural.com): VST3 plugin for real-time AI music generation during live performance. Features 8-track MIDI-triggered sampler with text-to-audio and experimental draw-to-audio generation.
-* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AceTagGen](https://acetaggen.com): A free prompt builder for Suno AI. Structured inputs (mood, genre, instruments, SFX, production style) that produce a Suno-ready prompt fitting the 200-char Style field. Includes tested example library and quality-score validator.
+- [Boppy](https://boppy.me): Free AI music generator that creates complete songs from text descriptions. AI writes lyrics and ACE-Step 1.5 generates full audio tracks with vocals and instrumentation. Any genre, up to 5 minutes per track, no signup required.
+- [workmusic.ai](https://workmusic.ai): Free browser-based ambient focus music generator powered by Google Lyria. No sign-up required. Open source.
+- [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
+- [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 
 ## Conferences & Events
 
