@@ -142,6 +142,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [workmusic.ai](https://workmusic.ai): Free browser-based ambient focus music generator powered by Google Lyria. No sign-up required. Open source.
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [RunAPI MCP Server](https://github.com/runapi-ai/mcp): API access to Suno v4/v4.5/v5/v5.5 for music generation, plus 130+ other AI models for image, video, audio, and LLM. One key and an MCP server (`npx @runapi.ai/mcp`) to generate full songs from text or custom lyrics programmatically; free catalog tools for model discovery and pricing.
 
 ## Conferences & Events
 
