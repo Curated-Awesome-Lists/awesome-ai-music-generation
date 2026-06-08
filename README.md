@@ -142,6 +142,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [workmusic.ai](https://workmusic.ai): Free browser-based ambient focus music generator powered by Google Lyria. No sign-up required. Open source.
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz): Trust scoring MCP server for autonomous AI agents in creative pipelines. Verify wallet identity before x402 micropayments — score_agent and preflight_check are free. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Conferences & Events
 
