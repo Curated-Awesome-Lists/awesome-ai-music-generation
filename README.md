@@ -142,6 +142,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [workmusic.ai](https://workmusic.ai): Free browser-based ambient focus music generator powered by Google Lyria. No sign-up required. Open source.
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [Tunova](https://tunova.ai): A developer API for Suno (v5.5) — generate full songs over REST or MCP, async with HMAC-signed webhooks, billed only on successful renders (failed generations auto-refund). Zero-dependency Python & Node SDKs.
 
 ## Conferences & Events
 
