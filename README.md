@@ -141,6 +141,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [Boppy](https://boppy.me): Free AI music generator that creates complete songs from text descriptions. AI writes lyrics and ACE-Step 1.5 generates full audio tracks with vocals and instrumentation. Any genre, up to 5 minutes per track, no signup required.
 - [workmusic.ai](https://workmusic.ai): Free browser-based ambient focus music generator powered by Google Lyria. No sign-up required. Open source.
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
+- [Toggle Studio](https://toggle.town/studio): AI-assisted vocal and beat mixing/mastering. Upload a track, get back a mixed and mastered version. Credit-based pricing, no subscription.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 
 ## Conferences & Events
