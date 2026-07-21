@@ -21,6 +21,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## GitHub projects
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
 - [Magenta](https://github.com/magenta/magenta): Music and Art Generation with Machine Intelligence 🎵🖌️ (18712 stars)
 - [Audiocraft](https://github.com/facebookresearch/audiocraft): A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
 - [Muzic](https://github.com/microsoft/muzic): Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)
