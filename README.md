@@ -44,6 +44,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
 - [**OBSIDIAN Neural**](https://github.com/innermost47/ai-dj): Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)
 - [**LatentScore**](https://github.com/prabal-rje/latentscore): Simple text to ambient music in Python without GPU. 🎵 (35 stars)
+- [lacuna-toolkit](https://github.com/JOYLINK-LTD/lacuna-toolkit): Official open-source TypeScript SDK, CLI, and MCP server for the Lacuna Music API 🎵
 
 ## Articles & Blogs
 
@@ -142,6 +143,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [workmusic.ai](https://workmusic.ai): Free browser-based ambient focus music generator powered by Google Lyria. No sign-up required. Open source.
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+- [Lacuna](https://lacuna.fm): AI music generation platform. Create full songs with AI vocals and lyrics, or instrumentals, with stem separation and mastering built in. Free tier available.
 
 ## Conferences & Events
 
