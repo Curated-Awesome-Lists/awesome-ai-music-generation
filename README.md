@@ -144,6 +144,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [Minimal Music Maker](https://minimalmusic.puente-saas.com/): Free browser-based generative music app driven purely by mathematics — Conway's Game of Life generates the notes across four voices and Euler's identity drives timing and colour. 28 styles with chord progressions and beats, a full-screen stage mode for live streaming, and every pattern shares as a single URL.
 
 ## Conferences & Events
 
