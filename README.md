@@ -144,6 +144,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [MUSAI](https://musaisong.app): An AI songwriter that turns your story into original song lyrics, and gives you a genre-calibrated style prompt to generate the track in Suno or Udio, plus a numbered illustrated plate. 564 documented styles with BPM, arrangement formula and slider values. English and Spanish. It does not generate audio itself.
 
 ## Conferences & Events
 
