@@ -44,6 +44,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
 - [**OBSIDIAN Neural**](https://github.com/innermost47/ai-dj): Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)
 - [**LatentScore**](https://github.com/prabal-rje/latentscore): Simple text to ambient music in Python without GPU. 🎵 (35 stars)
+- [Suno Style Recipes](https://github.com/samuelgrupolimex-prog/suno-style-recipes): Public domain (CC0) dataset of 564 music styles with Suno-ready style prompts, BPM, Weirdness and Style Influence, as CSV, JSON and Parquet.
 
 ## Articles & Blogs
 
