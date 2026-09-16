@@ -44,6 +44,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
 - [**OBSIDIAN Neural**](https://github.com/innermost47/ai-dj): Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)
 - [**LatentScore**](https://github.com/prabal-rje/latentscore): Simple text to ambient music in Python without GPU. 🎵 (35 stars)
+- [Suno Style Recipes](https://github.com/samuelgrupolimex-prog/suno-style-recipes): Public domain (CC0) dataset of 564 music styles with Suno-ready style prompts, BPM, Weirdness and Style Influence, as CSV, JSON and Parquet.
 
 ## Articles & Blogs
 
@@ -144,7 +145,6 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
-- [MUSAI](https://musaisong.app): An AI songwriter that turns your story into original song lyrics, and gives you a genre-calibrated style prompt to generate the track in Suno or Udio, plus a numbered illustrated plate. 564 documented styles with BPM, arrangement formula and slider values. English and Spanish. It does not generate audio itself.
 
 ## Conferences & Events
 
