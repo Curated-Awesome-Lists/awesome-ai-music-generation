@@ -144,6 +144,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [suno-lyrics-skill](https://github.com/previtlab/suno-lyrics-skill): A Claude Agent Skill for writing singable Korean song lyrics with matching Suno Style, Exclude and Title fields. Genre-adaptive (ballad, trot, rap, K-pop, rock, electronic). Free and open, CC BY 4.0.
 
 ## Conferences & Events
 
