@@ -144,6 +144,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [Mureka API examples](https://github.com/useapi/mureka-api): Runnable Node.js and Python examples for the useapi.net Mureka API, a third-party REST API and MCP server for Mureka: songs from lyrics or a description (V9.5), your own voice as the singer, instrumentals, stems, and sheet music (MusicXML and PDF) from a song, YouTube link or MP3. Paid ($15/month), runs on your own Mureka account.
+- [Google Flow Music API examples](https://github.com/useapi/flowmusic-api): Runnable examples for the useapi.net Flow Music API, a third-party REST API and MCP server for full songs with Google's Lyria 3.5 and Lyria 3 Pro: vocals, custom lyrics, instrumentals, covers, extends and stems. Paid ($15/month), runs on your own Flow Music account.
 
 ## Conferences & Events
 
