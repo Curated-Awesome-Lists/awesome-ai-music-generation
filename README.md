@@ -144,6 +144,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [HeartMuLa](https://heart-mula.com/): Hosted app for creating songs with vocals from lyrics or text prompts. Free signup credits; optional credit packs and subscriptions. Separate from the open-source HeartMuLa model.
 
 ## Conferences & Events
 
