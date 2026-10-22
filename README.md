@@ -144,6 +144,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [Is This Song AI](https://isthissongai.app/): Free AI song detector for the other side of AI music generation. It checks a streaming link or an uploaded file for the spectral fingerprint that generators like Suno and Udio leave, and answers Likely AI, Likely human or Can't tell. The accuracy page publishes every score from a 65-song test.
 
 ## Conferences & Events
 
