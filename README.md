@@ -144,6 +144,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [Tera Studio](https://terastudio.co/): Sings any song back in your own voice, learned from about a minute of your singing; 2 full songs free per account.
 
 ## Conferences & Events
 
