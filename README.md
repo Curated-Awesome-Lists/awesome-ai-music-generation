@@ -144,6 +144,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [Rap Video](https://rapvideo.app/): Rap Video makes a 15-second vertical AI rap video from a topic or your own lyrics and one or two photos. Review six clean lyric lines for free, choose one of three original beats, and download an HD MP4 with sound.
 
 ## Conferences & Events
 
