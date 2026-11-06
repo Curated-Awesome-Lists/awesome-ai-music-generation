@@ -45,6 +45,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [**OBSIDIAN Neural**](https://github.com/innermost47/ai-dj): Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)
 - [**LatentScore**](https://github.com/prabal-rje/latentscore): Simple text to ambient music in Python without GPU. 🎵 (35 stars)
 
+- [**Custom Song Gift**](https://customsonggift.org/): Story-driven personalized AI music studio turning memories and milestones into studio-grade songs across 16 genres with interactive vinyl keepsakes. 🎵🎁
+
 ## Articles & Blogs
 
 - [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284): A single Language Model (LM) called MusicGen that operates over compressed discrete music representation, allowing better control over the generated output. Music samples, code, and models are available at the provided link.
