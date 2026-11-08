@@ -144,6 +144,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+- [Cantoro](https://theaisonggenerator.com/): AI song generator for one-person gifts. Enter a name, occasion and a few details; it writes lyrics with the name in the chorus and sings two versions, with the first 60 seconds of each free to hear and $4.99 once to keep the full song. No sign-up, no subscription.
 
 ## Conferences & Events
 
