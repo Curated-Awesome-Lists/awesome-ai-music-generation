@@ -145,6 +145,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills): Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 - [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
 
+- [AI Rap Video](https://rapaivideo.net): Browser-based AI generator that turns two selfies into a lip-synced rap music video — writes original rap lyrics, generates a beat, and renders the duo video in about three minutes. Freemium, upload-your-own-song supported.
+
 ## Conferences & Events
 
 - [Neuton.AI Events](https://www.eventbrite.com/o/neutonai-63873737103) - Neuton.AI is hosting various events, including an ARM Tech Talk about the Next Generation Smart Toothbrush and showcasing their unique neural network framework for building compact models with optimal size and accuracy.
