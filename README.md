@@ -73,6 +73,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 - This blog post presents the use of a long short-term memory (LSTM) neural network for music generation. It covers improvements made to an existing LSTM model.
 - [Discrete Diffusion Probabilistic Models for Symbolic Music Generation](https://arxiv.org/abs/2305.09489) :notes:
 - This work introduces the generation of polyphonic symbolic music using Discrete Diffusion Probabilistic Models (DDPMs). The models exhibit high-quality sample generation and allow for flexible infilling at the note level. The paper also discusses the evaluation of music sample quality and the possible applications of these models.
+- [Make a drum machine that sounds good](https://good.vibes.diy/blog/make-a-drum-machine-that-sounds-good) - Ask an AI app builder for a drum machine and get a sixteen-step grid with swing and grit that plays on the first tap.
 
 ## Online Courses
 
